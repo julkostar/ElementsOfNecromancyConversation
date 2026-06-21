@@ -1,5 +1,4 @@
-"""How to run"""
-
+https://devpost.com/software/elements-of-necromancy-conversation
 
 # Windows:
 # Open up powershell or cmd prompt and type to open the venv:
